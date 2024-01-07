@@ -1,2 +1,2 @@
-# generate-images-stable-diffusion-kerascv
- Generate images using Stable Diffusion in KerasCV.
+# generate-images-stablility-ai
+ Generate images using Stability AI models.
